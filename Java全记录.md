@@ -2,6 +2,8 @@
 
 ## 1.Java概述
 
+[TOC]
+
 - Java历史 
 
   > Java是由<span style='color:orange'>Sun Microsystems公司</span>于1995年5月推出的Java面向对象程序设计语言和Java平台的总称。由<span style='color:orange'>James Gosling</span>和同事们共同研发，并在<span style='color:orange'>1995年</span>正式推出。
