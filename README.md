@@ -121,7 +121,7 @@
 #### Fancy Fonts 🖋
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
-#### Icons 🎯
+#### Docker 🎯
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
 
 
@@ -130,7 +130,7 @@
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## 工具
-- [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
+- [Onlyoffice](https://github.com/abhisheknaiidu/todoist-readme) - 在Docker下安装onlyoffice
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 
 ## 框架
