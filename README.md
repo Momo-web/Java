@@ -26,9 +26,9 @@
 
 ### Java基础:
   - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Java Base 🤖](#java-base-)
+      - [Java Web 🚀](#java-web-)
+      - [SSM 👨🏽‍💻](#ssm-)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
       - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
       - [Descriptive 🗒](#descriptive-)
@@ -52,17 +52,17 @@
 
 ## Categories
 
-#### GitHub Actions 🤖
+#### Java Base 🤖
 - [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 
 
 
-#### Game Mode 🚀
+#### Java Web 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 
-#### Code Mode 👨🏽‍💻
+#### SSM 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 
 
