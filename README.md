@@ -24,7 +24,7 @@
 
 </div>
 
-### Java基础:
+### Java:
   - [Categories](#categories)
       - [Java Base 🤖](#java-base-)
       - [Java Web 🚀](#java-web-)
