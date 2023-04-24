@@ -53,7 +53,7 @@
 ## Categories
 
 #### Java Base 🤖
-- [Abhishek Naidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+- [java base note](https://github.com/Momo-web/Java-note/blob/78dc823566ac1f2599429eb9281355f21431d8e7/Java%E5%85%A8%E8%AE%B0%E5%BD%95.md)
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 
 
