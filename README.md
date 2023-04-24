@@ -54,13 +54,9 @@
 
 #### Java Base 🤖
 - [java base note](https://github.com/Momo-web/Java-note/blob/78dc823566ac1f2599429eb9281355f21431d8e7/Java%E5%85%A8%E8%AE%B0%E5%BD%95.md)
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
-
-
 
 #### Java Web 🚀
-- [Tim Burgan](https://github.com/timburgan/timburgan)
-- [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
+- [JavaWeb 笔记](https://github.com/Momo-web/Java-note/blob/12fab0936d403e571831fd12dcd5f3ffde25eae4/JavaWeb%E7%AC%94%E8%AE%B0.md)
 
 #### SSM 👨🏽‍💻
 - [SSM Note](https://github.com/Momo-web/Java-note/blob/eabf8f493739f08ca165b1f123c4dff10594866d/Java%20SSM.md)
