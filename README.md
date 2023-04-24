@@ -42,6 +42,7 @@
       - [Fancy Fonts 🖋](#fancy-fonts-)
       - [Icons 🎯](#icons-)
       - [Linux 😎](#linux-)
+      - [框架](#框架-)
   - [Tools](#tools)
   - [Articles](#articles)
   - [Video Tutorials](#tutorials)
@@ -132,6 +133,9 @@
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 
+## 框架
+- [若依](http://doc.ruoyi.vip/) - *RuoYi*
+- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
 
 ## 文章
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
