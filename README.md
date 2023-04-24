@@ -63,7 +63,7 @@
 - [Ben Sampica](https://github.com/benjaminsampica/benjaminsampica)
 
 #### SSM 👨🏽‍💻
-- [Thaiane Braga](https://github.com/Thaiane/Thaiane)
+- [SSM Note](https://github.com/Momo-web/Java-note/blob/eabf8f493739f08ca165b1f123c4dff10594866d/Java%20SSM.md)
 
 
 #### Dynamic Realtime 💫
