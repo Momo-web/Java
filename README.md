@@ -42,10 +42,10 @@
       - [Fancy Fonts 🖋](#fancy-fonts-)
       - [Icons 🎯](#icons-)
       - [Linux 😎](#linux-)
-  - [Tools](#tools)
+  - [工具](#工具)
   - [框架](#框架)
   - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
+  - [教程](#教程)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -123,23 +123,23 @@
 
 #### Linux 😎
 - [使用 WSL 在 Windows 上安装 Linux](https://github.com/Momo-web/Note/blob/0ed60de35bf6cfe8abb3ea68e9d63e0498f6baa4/Markdown/Linux/Window%E4%B8%8B%E9%85%8D%E7%BD%AEDocker.md)
-- [Christian Petersen](https://github.com/fnky/fnky)
+- []()
 
 ## 工具
-- [Onlyoffice](https://github.com/Momo-web/Note/blob/de6bb06e4ed5e46c4e954c3658c85f7af4be21a9/Markdown/Docker/%E5%9C%A8docker%E4%B8%8A%E5%AE%89%E8%A3%85onlyoffice.md) - 在Docker下安装onlyoffice
-- [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
+- [ONLYOFFICE 中文网](https://www.onlyoffice.org.cn/guide/) 
+  &nbsp;[onlyoffice其他处理](https://github.com/Momo-web/Note/blob/de6bb06e4ed5e46c4e954c3658c85f7af4be21a9/Markdown/Docker/%E5%9C%A8docker%E4%B8%8A%E5%AE%89%E8%A3%85onlyoffice.md) 
 
 ## 框架
 - [若依](http://doc.ruoyi.vip/) - *RuoYi*
-- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
+- [""]() - **
 
 ## 文章
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
-- ["一文玩转github主页"](https://blog.holic-x.com/wv-blog/post/7ad96a5d.html) - *holic-x*
+- [""]() - **
 
 ## 教程
-- ["Create Impressive GitHub Portfolio"](https://www.youtube.com/watch?v=dkE4mVhwMB4) - *MTECHVIRAL*
-- ["How To Create a Github Profile ReadMe"](https://www.youtube.com/watch?v=DOiGs2NiDbU) - *James Q Quick*
+- ["【零基础 快速学Java】韩顺平 零基础30天学会Java"](https://www.bilibili.com/video/BV1fh411y7R8) - *韩顺平*
+- [""]() - **
 
 
 ## 贡献
